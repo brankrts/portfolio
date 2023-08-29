@@ -34,7 +34,9 @@ Yazılım geliştirme konusundaki sürekli ilerleme isteğim, her proje üzerind
 
 Geçmiş deneyimlerim ve sürekli öğrenme çabalarım, yazılım geliştirme dünyasındaki hızlı değişimlere ayak uydurabilmemi sağlıyor. Yeni teknolojileri öğrenmek ve bu bilgileri pratik uygulamalarda kullanmak, en büyük motivasyon kaynaklarımdan biri haline geldi.
 
- `,
+Amacım, her adımı daha iyi bir yazılım geliştirici olma yolunda atmaktır. Kendi yeteneklerimi ve sınırlarımı sürekli zorlayarak, hem bireysel hem de takım projelerinde en iyi sonuçları elde etmek istiyorum. Ekip çalışmasına verdiğim değer, farklı bakış açılarından zenginleşen projeler ortaya çıkarmama yardımcı oluyor.
+
+Bana her zaman yeni fikirlerle gelmekten ve teknolojinin sınırlarını keşfetmekten keyif alırım. Çünkü inanıyorum ki, sadece kendimizi sürekli olarak geliştirerek ve yenilikleri kucaklayarak gelecekteki teknolojik dönüşümleri yönlendirebiliriz.`,
   },
   projects: {
     title: "Projeler",
@@ -93,7 +95,9 @@ My drive for continuous progress in software development is a fundamental princi
 
 My past experiences and ongoing efforts to learn allow me to adapt to the rapid changes in the world of software development. Learning new technologies and applying this knowledge in practical applications has become one of my most significant sources of motivation.
 
-`,
+My goal is to take each step toward becoming a better software developer. By consistently pushing my skills and boundaries, I aspire to achieve the best results in both individual and team projects. Valuing teamwork helps me bring forth projects enriched with diverse perspectives.
+
+I always find pleasure in bringing new ideas and exploring the boundaries of technology. Because I believe that only by continuously improving ourselves and embracing innovation can we shape the future technological transformations.`,
   },
   projects: {
     title: "Projects",

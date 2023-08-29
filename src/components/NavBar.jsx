@@ -6,7 +6,7 @@ import LanguageSelector from "./LanguageSelector";
 import { languageContext } from "../App";
 
 const NavBar = () => {
-  const { currentLang, setCurrentLang } = useContext(languageContext);
+  const { currentLang } = useContext(languageContext);
   const { home, about, skils, contact, projects } = currentLang.navbar;
   const [nav, setNav] = useState(false);
   const links = [
