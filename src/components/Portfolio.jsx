@@ -14,7 +14,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: ITL,
-      url: "https://github.com/brankrts/Intelligent-Traffic-Light",
+      url: "https://github.com/brankrts/Intelligent-Traffic-Light-2023",
     },
 
     {

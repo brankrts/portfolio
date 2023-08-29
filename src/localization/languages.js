@@ -36,7 +36,7 @@ Geçmiş deneyimlerim ve sürekli öğrenme çabalarım, yazılım geliştirme d
 
 Amacım, her adımı daha iyi bir yazılım geliştirici olma yolunda atmaktır. Kendi yeteneklerimi ve sınırlarımı sürekli zorlayarak, hem bireysel hem de takım projelerinde en iyi sonuçları elde etmek istiyorum. Ekip çalışmasına verdiğim değer, farklı bakış açılarından zenginleşen projeler ortaya çıkarmama yardımcı oluyor.
 
-Bana her zaman yeni fikirlerle gelmekten ve teknolojinin sınırlarını keşfetmekten keyif alırım. Çünkü inanıyorum ki, sadece kendimizi sürekli olarak geliştirerek ve yenilikleri kucaklayarak gelecekteki teknolojik dönüşümleri yönlendirebiliriz.`,
+Ben her zaman yeni fikirlerle gelmekten ve teknolojinin sınırlarını keşfetmekten keyif alırım. Çünkü inanıyorum ki, sadece kendimizi sürekli olarak geliştirerek ve yenilikleri kucaklayarak gelecekteki teknolojik dönüşümleri yönlendirebiliriz.`,
   },
   projects: {
     title: "Projeler",
