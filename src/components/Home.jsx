@@ -13,7 +13,7 @@ const Home = () => {
     >
       <div className=" max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row text-white">
         <div className="flex flex-col justify-center h-full">
-          <h2 className=" mt-40 lg:mt-0 text-4xl sm:text-7xl font-bold mb-3">
+          <h2 className=" mt-60 lg:mt-0 text-4xl sm:text-7xl font-bold mb-3">
             {currentLang.home.title}
           </h2>
 
