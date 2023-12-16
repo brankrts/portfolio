@@ -29,7 +29,7 @@ export const tr = {
   },
   about: {
     title: "Hakkında",
-    content: `Merhaba! Ben Ben, 4. sınıf bir bilgisayar mühendisiyim. Teknoloji dünyasına olan merakım ve hevesim sayesinde Python, HTML/CSS/JavaScript ve Java/C# gibi çeşitli teknolojilerle uzun süredir çalışıyorum. Karmaşık görünen problemleri çözmek ve yeni konuları öğrenmek benim için sadece bir görev değil, aynı zamanda bir tutku haline geldi.
+    content: `Merhaba! Ben, 4. sınıf bir bilgisayar mühendisiyim. Teknoloji dünyasına olan merakım ve hevesim sayesinde Python, HTML/CSS/JavaScript ve Java/C# gibi çeşitli teknolojilerle uzun süredir çalışıyorum. Karmaşık görünen problemleri çözmek ve yeni konuları öğrenmek benim için sadece bir görev değil, aynı zamanda bir tutku haline geldi.
 Yazılım geliştirme konusundaki sürekli ilerleme isteğim, her proje üzerinde daha fazla değer sağlamayı amaçladığım temel bir ilkedir. Projelerimi sadece kod satırlarıyla değil, aynı zamanda yaratıcı düşünce ve mükemmel tasarım anlayışıyla şekillendiriyorum. Bu sayede, her bir projede benzersiz ve etkileyici sonuçlar elde etmek için çabalıyorum.
 
 Geçmiş deneyimlerim ve sürekli öğrenme çabalarım, yazılım geliştirme dünyasındaki hızlı değişimlere ayak uydurabilmemi sağlıyor. Yeni teknolojileri öğrenmek ve bu bilgileri pratik uygulamalarda kullanmak, en büyük motivasyon kaynaklarımdan biri haline geldi.
@@ -89,7 +89,7 @@ export const en = {
   },
   about: {
     title: "About",
-    content: `Hello! I am Ben, a 4th-grade computer engineer. Thanks to my curiosity and enthusiasm for the world of technology, I have been working with various technologies like Python, HTML/CSS/JavaScript, and Java/C# for a long time. Solving complex-looking problems and learning about new topics has not only become a duty but also a passion for me.
+    content: `Hello! I am a 4th-year computer engineering student.. Thanks to my curiosity and enthusiasm for the world of technology, I have been working with various technologies like Python, HTML/CSS/JavaScript, and Java/C# for a long time. Solving complex-looking problems and learning about new topics has not only become a duty but also a passion for me.
 
 My drive for continuous progress in software development is a fundamental principle through which I aim to provide more value in every project. I shape my projects not only with lines of code but also with creative thinking and a keen design sense. This way, I strive to achieve unique and impressive outcomes in each project.
 
